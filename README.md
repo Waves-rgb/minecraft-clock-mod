@@ -1,3 +1,3 @@
 Clock Mod
 ==
-Displays a clock in the top left corner of minecraft
+Displays a clock in the top right corner of minecraft
